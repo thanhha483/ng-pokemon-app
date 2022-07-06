@@ -111,5 +111,8 @@
       }
     }
   },
-  "defaultProject": "ng-pokemon-app"
+  "defaultProject": "ng-pokemon-app",
+  "cli": {
+    "analytics": "da323014-a9db-4b2f-a7e4-9452e7f40784"
+  }
 }
